@@ -26,7 +26,8 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-marvin": "0.0.2",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "^3.3.0"
+    "hubot-slack": "^3.3.0",
+    "parse-rss": "^1.0.3"
   },
   "scripts": {
     "start": "PORT=$OPENSHIFT_NODEJS_PORT BIND_ADDRESS=$OPENSHIFT_NODEJS_IP REDIS_URL=redis://:$REDIS_PASSWORD@$OPENSHIFT_REDIS_HOST:$OPENSHIFT_REDIS_PORT bin/hubot -n Hubot -a slack"
