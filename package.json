@@ -28,6 +28,7 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-slack": "^3.3.0",
     "hubot-standup-alarm": "0.0.6",
+    "nodemon": "^1.7.1",
     "parse-rss": "^1.0.3"
   },
   "scripts": {
