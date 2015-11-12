@@ -34,4 +34,5 @@ module.exports = (robot) ->
                 .replace(/&#229;/g, "å")
                 .replace(/&#197;/g, "Å")
                 .replace(/&amp;/g, "&")
+                .replace(/&#233/g, "é")
                 .trim()
