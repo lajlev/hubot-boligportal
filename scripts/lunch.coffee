@@ -1,5 +1,6 @@
 # Description:
-#   A simple json request to get todays lunch menu from frokost.dk through kimono.
+#   A simple command that fetch todays menu from frokost.dk via RSS
+#   Remember to change url to your frokost.dk ID, else you will see what BoligPortal.dk is having for lunch :)
 #
 # Dependencies:
 #   None
