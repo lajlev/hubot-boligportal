@@ -15,7 +15,7 @@
 #   None
 #
 # Author:
-#   Michael Lajlev
+#   @lajlev & @rkjaer
 
 parser = require 'parse-rss'
 
